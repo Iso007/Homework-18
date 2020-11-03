@@ -20,8 +20,8 @@ I WANT to be able to track my withdrawals and deposits with or without a data/in
 SO THAT my account balance is accurate when I am traveling
 
 ## Deployed
-Works better through the terminal: node server.js
-heroku version: https://serene-waters-96021.herokuapp.com/
+* Works better through the terminal: node server.js
+* heroku version: https://serene-waters-96021.herokuapp.com/
 
 ## Business Context
 
